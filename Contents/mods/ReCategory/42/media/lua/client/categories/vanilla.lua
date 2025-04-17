@@ -1,4 +1,17 @@
 DBMRecategoryDefinition = {
+  Recat_FirstAid_Smoking = {
+    "Base.Cigarillo",
+    "Base.CanPipe",
+    "Base.CanPipe_Tobacco",
+    "Base.TobaccoChewing",
+    "Base.Cigar",
+    "Base.CigaretteSingle",
+    "Base.CigaretteCarton",
+    "Base.CigarettePack",
+    "Base.TobaccoLoose",
+    "Base.CigaretteRolled",
+    "Base.SmokingPipe_Tobacco",
+  },
   Accessory = {
     "Base.Hat_BunnyEarsWhite",
     "Base.Hat_BunnyEarsBlack",
@@ -435,18 +448,7 @@ DBMRecategoryDefinition = {
     "Base.TvBlack",
   };
   FirstAid = {
-    "Base.CanPipe",
-    "Base.CanPipe_Tobacco",
     "Base.ToiletPaper",
-    "Base.Cigarillo",
-    "Base.TobaccoChewing",
-    "Base.Cigar",
-    "Base.CigaretteSingle",
-    "Base.CigaretteCarton",
-    "Base.CigarettePack",
-    "Base.TobaccoLoose",
-    "Base.CigaretteRolled",
-    "Base.SmokingPipe_Tobacco",
     "Base.Scalpel",
   };
   Fishing = {
