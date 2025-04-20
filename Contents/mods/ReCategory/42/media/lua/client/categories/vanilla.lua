@@ -33,6 +33,17 @@ DBMRecategoryDefinitionV2 = {
     "Base.Receiver",
     "Base.ElectronicsScrap",
   },
+  Recat_LiquidContainer_Small = {
+    "Base.MayonnaiseEmpty",
+    "Base.PlasticCup",
+  },
+  Recat_LiquidContainer_Medium = {
+    "Base.HotWaterBottle",
+    "Base.Bag_LeatherWaterBag",
+  },
+  Recat_LiquidContainer_Large = {
+    "Base.PaintbucketEmpty",
+  },
 }
 
 DBMRecategoryDefinition = {
