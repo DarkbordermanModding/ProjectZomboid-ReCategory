@@ -1,4 +1,4 @@
-DBMRecategoryDefinition = {
+DBMRecategoryDefinitionV2 = {
   Recat_FirstAid_Smoking = {
     "Base.Cigarillo",
     "Base.CanPipe",
@@ -12,6 +12,31 @@ DBMRecategoryDefinition = {
     "Base.CigaretteRolled",
     "Base.SmokingPipe_Tobacco",
   },
+  Recat_Material_Electronics = {
+    "Base.Amplifier",
+    -- "Base.Battery",  -- Maybe some consumable
+    -- "Base.BatteryBox",
+    "Base.LightBulb",
+    "Base.LightBulbBlue",
+    "Base.LightBulbCyan",
+    "Base.LightBulbGreen",
+    "Base.LightBulbMagenta",
+    "Base.LightBulbOrange",
+    "Base.LightBulbPink",
+    "Base.LightBulbPurple",
+    "Base.LightBulbRed",
+    "Base.LightBulbYellow",
+    "Base.LightBulbBox",
+    "Base.ElectricWire",
+    "Base.RadioReceiver",
+    "Base.RadioTransmitter",
+    "Base.Receiver",
+    "Base.ElectronicsScrap",
+  },
+}
+
+DBMRecategoryDefinition = {
+
   Accessory = {
     "Base.Hat_BunnyEarsWhite",
     "Base.Hat_BunnyEarsBlack",

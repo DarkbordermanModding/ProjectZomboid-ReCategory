@@ -1,4 +1,5 @@
 IGUI_EN = {
 	IGUI_ItemCat_Recat_Debug = "Debug",
 	IGUI_ItemCat_Recat_FirstAid_Smoking = "First Aid - Smoking"
+	IGUI_ItemCat_Recat_Material_Electronics = "Material - Electronics"
 }

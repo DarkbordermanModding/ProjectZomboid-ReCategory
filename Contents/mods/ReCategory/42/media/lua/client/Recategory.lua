@@ -7,7 +7,7 @@ function ReCategory.OnGameBoot()
   --   local item = allItems:get(i)
   --   item:DoParam("DisplayCategory=" .. "Recat_Debug")
   -- end
-  for category, items in pairs(DBMRecategoryDefinition) do
+  for category, items in pairs(DBMRecategoryDefinitionV2) do
     for _, item in ipairs(items) do
       sm:getItem(item):DoParam("DisplayCategory=" .. category)
     end
