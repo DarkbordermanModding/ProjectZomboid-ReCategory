@@ -44,6 +44,29 @@ DBMRecategoryDefinitionV2 = {
   Recat_LiquidContainer_Large = {
     "Base.PaintbucketEmpty",
   },
+  Recat_Food_Imperishable = {
+    "Base.DriedApricots",
+    "Base.CandyFruitSlices",
+    "Base.Candycane",
+    "Base.CandyCorn",
+    "Base.TinnedBeans",
+    "Base.CannedCarrots2",
+    "Base.CannedChili",
+    "Base.CannedCorn",
+    "Base.CannedCornedBeef",
+    "Base.Dogfood",
+    "Base.CannedMilk",
+    "Base.CannedFruitBeverage",
+    "Base.CannedFruitCocktail",
+    "Base.CannedMushroomSoup",
+    "Base.CannedPeaches",
+    "Base.CannedPeas",
+    "Base.CannedPineapple",
+    "Base.CannedPotato2",
+    "Base.CannedSardines",
+    "Base.CannedBolognese",
+    "Base.CannedTomato2",
+  },
 }
 
 DBMRecategoryDefinition = {
