@@ -14,8 +14,8 @@ DBMRecategoryDefinitionV2 = {
   },
   Recat_Electrical_Material = {
     "Base.Amplifier",
-    -- "Base.Battery",  -- Maybe some consumable
-    -- "Base.BatteryBox",
+    "Base.Battery",  -- Maybe some consumable
+    "Base.BatteryBox",
     "Base.LightBulb",
     "Base.LightBulbBlue",
     "Base.LightBulbCyan",
@@ -32,6 +32,24 @@ DBMRecategoryDefinitionV2 = {
     "Base.RadioTransmitter",
     "Base.Receiver",
     "Base.ElectronicsScrap",
+    "Base.MotionSensor",
+    "Base.ScannerModule",
+  },
+  Recat_Electrical_Scrapable = {
+    "Base.CordlessPhone",
+    "Base.CDplayer",
+    "Base.Calculator",
+    "Base.Earbuds",
+    "Base.HairDryer",
+    "Base.HairIron",
+    "Base.VideoGame",
+    "Base.Headphones",
+    "Base.HomeAlarm",
+    "Base.Microphone",
+    "Base.Pager",
+    "Base.PowerBar",
+    "Base.Speaker",
+    "Base.Remote",
   },
   Recat_LiquidContainer_Small = {
     "Base.MayonnaiseEmpty",
@@ -46,6 +64,11 @@ DBMRecategoryDefinitionV2 = {
     "Base.Pop",
     "Base.Pop2",
     "Base.Pop3",
+    "Base.DrinkingGlass",
+    "Base.FountainCup",
+    "Base.FountainCupWater",
+    "Base.GlassTumbler",
+    "Base.GlassWine",
   },
   Recat_LiquidContainer_Medium = {
     "Base.HotWaterBottle",
@@ -67,6 +90,11 @@ DBMRecategoryDefinitionV2 = {
     "Base.Champagne",
     "Base.WineScrewtop",
     "Base.Cider",
+    "Base.WaterBottle",
+    "Base.BottleCrafted",
+    "Base.RemouladeEmpty",
+    "Base.Sportsbottle",
+    "Base.CanteenCowboy",
   },
   Recat_LiquidContainer_Large = {
     "Base.PaintbucketEmpty",
@@ -75,6 +103,9 @@ DBMRecategoryDefinitionV2 = {
     "Base.BucketEmpty",
     "Base.BucketCarved",
     "Base.WaterDispenserBottle",
+    "Base.BucketWaterDebug",
+    "Base.BucketLargeWood",
+    "Base.BucketWood",
   },
   Recat_Food_Imperishable = {
     "Base.DriedApricots",
@@ -134,5 +165,8 @@ DBMRecategoryDefinitionV2 = {
   Recat_Food_Seasoning = {
     "Base.Capers",
     -- TBD
+  },
+  Hidden = {
+    "Base.TestWaterMug",
   },
 }
