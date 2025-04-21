@@ -12,7 +12,7 @@ DBMRecategoryDefinitionV2 = {
     "Base.CigaretteRolled",
     "Base.SmokingPipe_Tobacco",
   },
-  Recat_Material_Electronics = {
+  Recat_Electrical_Material = {
     "Base.Amplifier",
     -- "Base.Battery",  -- Maybe some consumable
     -- "Base.BatteryBox",
@@ -36,13 +36,24 @@ DBMRecategoryDefinitionV2 = {
   Recat_LiquidContainer_Small = {
     "Base.MayonnaiseEmpty",
     "Base.PlasticCup",
+    "Base.Canteen",
+    "Base.CanteenMilitaryFull",
+    "Base.CanteenClay",
+    "Base.CanteenMilitary",
+    "Base.BeerCanEmpty",
   },
   Recat_LiquidContainer_Medium = {
     "Base.HotWaterBottle",
     "Base.Bag_LeatherWaterBag",
+    "Base.BeerEmpty",
   },
   Recat_LiquidContainer_Large = {
     "Base.PaintbucketEmpty",
+    "Base.Bucket",
+    "Base.BucketForged",
+    "Base.BucketEmpty",
+    "Base.BucketCarved",
+    "Base.WaterDispenserBottle",
   },
   Recat_Food_Imperishable = {
     "Base.DriedApricots",
@@ -66,5 +77,35 @@ DBMRecategoryDefinitionV2 = {
     "Base.CannedSardines",
     "Base.CannedBolognese",
     "Base.CannedTomato2",
+    "Base.TunaTin",
+    "Base.TinnedSoup",
+    "Base.CandyCaramels",
+    "Base.CatTreats",
+    "Base.Cereal",
+    "Base.Crisps",
+    "Base.Crisps2",
+    "Base.Crisps3",
+    "Base.Crisps4",
+    "Base.ChocoCakes",
+    "Base.Chocolate_Candy",
+    "Base.CookieChocolateChip",
+    "Base.ChocolateChips",
+    "Base.CookiesChocolate",
+    "Base.ChocolateCoveredCoffeeBeans",
+    "Base.Chocolate_Butterchunkers",
+    "Base.Cone",
+    "Base.Crackers",
+    "Base.Chocolate_Crackle",
+    "Base.CookiesShortbread",
+    "Base.Chocolate_Smirkers",
+    "Base.Chocolate_SnikSnak",
+    "Base.SnoGlobes",
+    "Base.MysteryCan",
+  },
+  Recat_Food_Perishable = {
+
+  },
+  Recat_Food_Seasoning = {
+    "Base.Capers",
   },
 }
