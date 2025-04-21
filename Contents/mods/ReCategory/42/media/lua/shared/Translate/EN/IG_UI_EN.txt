@@ -6,6 +6,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_LiquidContainer_Small = "Liquid Container - Small"
 	IGUI_ItemCat_Recat_LiquidContainer_Medium = "Liquid Container - Medium"
 	IGUI_ItemCat_Recat_LiquidContainer_Large = "Liquid Container - Large"
+	IGUI_ItemCat_Recat_Fishing_Lure = "Fishing - Lure"
 	IGUI_ItemCat_Recat_Food_Imperishable = "Food - Imperishable"
 	IGUI_ItemCat_Recat_Food_Perishable = "Food - Perishable"
 	IGUI_ItemCat_Recat_Food_Seasoning = "Food - Seasoning"

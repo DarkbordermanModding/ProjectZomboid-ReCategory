@@ -41,11 +41,32 @@ DBMRecategoryDefinitionV2 = {
     "Base.CanteenClay",
     "Base.CanteenMilitary",
     "Base.BeerCanEmpty",
+    "Base.BeerBottle",
+    "Base.BeerCan",
+    "Base.Pop",
+    "Base.Pop2",
+    "Base.Pop3",
   },
   Recat_LiquidContainer_Medium = {
     "Base.HotWaterBottle",
     "Base.Bag_LeatherWaterBag",
     "Base.BeerEmpty",
+    "Base.JuiceOrange",
+    "Base.JuiceGrape",
+    "Base.JuiceFruitpunch",
+    "Base.JuiceCranberry",
+    "Base.MilkBottle",
+    "Base.PopBottleRare",
+    "Base.JuiceTomato",
+    "Base.SimpleSyrup",
+    "Base.JuiceLemon",
+    "Base.WineAged",
+    "Base.Whiskey",
+    "Base.WineBox",
+    "Base.Brandy",
+    "Base.Champagne",
+    "Base.WineScrewtop",
+    "Base.Cider",
   },
   Recat_LiquidContainer_Large = {
     "Base.PaintbucketEmpty",
@@ -101,11 +122,17 @@ DBMRecategoryDefinitionV2 = {
     "Base.Chocolate_SnikSnak",
     "Base.SnoGlobes",
     "Base.MysteryCan",
+    "Base.CandiedApple",
+    "Base.CandyPackage",
+    "Base.CinnamonRoll",
+    "Base.Lollipop",
+    -- TBD
   },
   Recat_Food_Perishable = {
 
   },
   Recat_Food_Seasoning = {
     "Base.Capers",
+    -- TBD
   },
 }
