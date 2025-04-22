@@ -12,6 +12,9 @@ DBMRecategoryDefinitionV2 = {
     "Base.CigaretteRolled",
     "Base.SmokingPipe_Tobacco",
   },
+  Electrical_Device = {
+    
+  },
   Recat_Electrical_Material = {
     "Base.Amplifier",
     "Base.Battery",  -- Maybe some consumable
@@ -166,9 +169,6 @@ DBMRecategoryDefinitionV2 = {
     "Base.Capers",
     -- TBD
   },
-  Hidden = {
-    "Base.TestWaterMug",
-  },
   Recat_Fishing_Lure = {
     "Base.Leech",
     "Base.Tadpole",
@@ -193,5 +193,14 @@ DBMRecategoryDefinitionV2 = {
     "Base.Termites",
     "Base.Worm",
     "Base.BaitFish",
-  }
+  },
+  -- Original Categories
+  Hidden = {
+    "Base.TestWaterMug",
+  },
+  Furniture = {
+    "Base.TvAntique",
+    "Base.TvWideScreen",
+    "Base.TvBlack",
+  },
 }

@@ -1,6 +1,7 @@
 IGUI_EN = {
 	IGUI_ItemCat_Recat_Debug = "Debug",
 	IGUI_ItemCat_Recat_FirstAid_Smoking = "Medical - Smoking"
+	IGUI_ItemCat_Recat_Electrical_Device = "Electrical - Device"
 	IGUI_ItemCat_Recat_Electrical_Material = "Electrical - Material"
 	IGUI_ItemCat_Recat_Electrical_Scrapable = "Electrical - Scrapable"
 	IGUI_ItemCat_Recat_LiquidContainer_Small = "Liquid Container - Small"
