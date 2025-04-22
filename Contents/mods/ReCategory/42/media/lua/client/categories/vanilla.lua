@@ -104,6 +104,7 @@ DBMRecategoryDefinitionV2 = {
     "Base.WaterRationCan",
     "Base.WaterRationCanEmpty",
     "Base.WaterRationCan_Box",
+    "Base.CleaningLiquid2",
   },
   Recat_LiquidContainer_Medium = {
     "Base.HotWaterBottle",
@@ -149,6 +150,7 @@ DBMRecategoryDefinitionV2 = {
     "Base.Tequila",
     "Base.WineRed_Boxed",
     "Base.WineWhite_Boxed",
+    "Base.Bleach",
   },
   Recat_LiquidContainer_Large = {
     "Base.PaintbucketEmpty",
