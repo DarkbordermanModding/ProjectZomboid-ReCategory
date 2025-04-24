@@ -1,5 +1,8 @@
 IGUI_EN = {
 	IGUI_ItemCat_Recat_Debug = "Debug",
+	IGUI_ItemCat_Recat_Literature_Map = "Literature - Map"
+	IGUI_ItemCat_Recat_Literature_Writing = "Literature - Writing"
+	IGUI_ItemCat_Recat_Literature_Entertainment = "Literature - Entertainment"
 	IGUI_ItemCat_Recat_FirstAid_Smoking = "Medical - Smoking"
 	IGUI_ItemCat_Recat_Electrical_Device = "Electrical - Device"
 	IGUI_ItemCat_Recat_Electrical_Material = "Electrical - Material"
@@ -11,4 +14,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Food_Imperishable = "Food - Imperishable"
 	IGUI_ItemCat_Recat_Food_Perishable = "Food - Perishable"
 	IGUI_ItemCat_Recat_Food_Seasoning = "Food - Seasoning"
+	IGUI_ItemCat_Recat_Music_Tool = "Music - Tool"
+	IGUI_ItemCat_Recat_Music_Junk = "Music - Junk"
+	IGUI_ItemCat_Recat_Music_Weapon = "Music - Weapon"
 }
