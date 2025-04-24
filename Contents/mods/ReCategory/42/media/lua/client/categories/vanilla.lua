@@ -254,6 +254,13 @@ DBMRecategoryDefinitionV2 = {
     "Base.Book_Bible",
     "Base.Book_Rich",
     "Base.Book_Legal",
+    "Base.BookFancy_Legal",
+    "Base.BookFancy_Occult",
+    "Base.BookFancy_Bible",
+    "Base.BookFancy_Classic",
+    "Base.BookFancy_Philosophy",
+    "Base.BookFancy_MilitaryHistory",
+    "Base.BookFancy_Religion",
   },
   Recat_Food_Imperishable = {
     "Base.DriedApricots",
