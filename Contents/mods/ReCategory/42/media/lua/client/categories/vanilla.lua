@@ -302,6 +302,9 @@ DBMRecategoryDefinitionV2 = {
     "Base.Magazine_Outdoors_New",
     "Base.Magazine_Military",
   },
+  Recat_Literature_Picture = {
+
+  },
   Recat_Food_Imperishable = {
     "Base.DriedApricots",
     "Base.CandyFruitSlices",
