@@ -301,6 +301,14 @@ DBMRecategoryDefinitionV2 = {
     "Base.Magazine_Art_New",
     "Base.Magazine_Outdoors_New",
     "Base.Magazine_Military",
+    "Base.Magazine_Sports",
+    "Base.Magazine_Police_New",
+    "Base.Magazine_Teens",
+    "Base.Magazine_Golf_New",
+    "Base.Magazine_Humor",
+    "Base.Magazine_Teens_New",
+    "Base.Magazine_Rich_New",
+    "Base.Magazine_Firearm_New",
   },
   Recat_Literature_Picture = {
 
