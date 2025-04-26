@@ -1,22 +1,28 @@
-ReCategory = {}
+if ReCategory == nil then
+  ReCategory = {
+    Definitions = {}
+  }
+end
 
-function ReCategory.OnGameBoot()
+function ReCategoryOnGameBoot()
   local prefix = "Recat_"
   local sm = getScriptManager()
-  -- local allItems = getScriptManager():getAllItems()
-  -- for i=0, allItems:size()-1 do
-  --   local item = allItems:get(i)
-  --   item:DoParam("DisplayCategory=" .. "Recat_Debug")
-  -- end
-  for category, items in pairs(DBMRecategoryDefinitionV2) do
-    for _, item in ipairs(items) do
-      local origin = sm:getItem(item):getDisplayCategory()
-      if string.find(origin, "^" .. prefix) then
-        print("Duplicated entry " .. item .. " (" .. origin .. "/" .. category .. ")")
+
+  for _, definition in ipairs(ReCategory.Definitions) do
+    -- getActivatedMods():contains(definition.modId)
+    if definition.modId == "vanilla" then
+      for category, items in pairs(definition.category) do
+        print("fuck" .. category)
+        for _, item in ipairs(items) do
+          local origin = sm:getItem(item):getDisplayCategory()
+          if string.find(origin, "^" .. prefix) then
+            print("Duplicated entry " .. item .. " (" .. origin .. "/" .. category .. ")")
+          end
+          sm:getItem(item):DoParam("DisplayCategory=" .. category)
+        end
       end
-      sm:getItem(item):DoParam("DisplayCategory=" .. category)
     end
   end
 end
 
-Events.OnGameBoot.Add(ReCategory.OnGameBoot)
+Events.OnGameBoot.Add(ReCategoryOnGameBoot)
