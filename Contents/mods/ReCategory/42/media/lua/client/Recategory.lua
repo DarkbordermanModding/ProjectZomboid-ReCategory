@@ -20,9 +20,7 @@ end
 
 function ReCategoryOnGameBoot()
   for _, definition in ipairs(ReCategory.Definitions) do
-    if definition.modId == "vanilla" then
-      loadDefinition(definition.category)
-    elseif getActivatedMods():contains(definition.modId) then
+    if definition.modId == "vanilla" or getActivatedMods():contains(definition.modId) then
       loadDefinition(definition.category)
     end
   end
