@@ -1,7 +1,7 @@
 -- VanillaAdjustments
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=2886750009
 Definition2886750009 = {
-  modId = 2886750009,
+  modId = "\\darkborderman.VanillaAdjustments",
   category = {
     Recat_LiquidContainer_Medium = {
       "Base.BeerBottle",
