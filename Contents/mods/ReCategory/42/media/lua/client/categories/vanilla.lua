@@ -1,4 +1,7 @@
 DBMRecategoryDefinitionV2 = {
+  Recat_FirstAid_Drug = {
+
+  },
   Recat_FirstAid_Smoking = {
     "Base.Cigarillo",
     "Base.CanPipe",
@@ -215,6 +218,7 @@ DBMRecategoryDefinitionV2 = {
     "Base.SheetPaper2",
     "Base.Diary1",
     "Base.Diary2",
+    "Base.IndexCard",
   },
   Recat_Literature_Entertainment = {
     "Base.Phonebook",
