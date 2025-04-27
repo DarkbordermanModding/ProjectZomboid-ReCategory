@@ -1,7 +1,7 @@
 ReCategoryDefinitions = {}
 
 function ReCategoryLoadDefinition(definition)
-  print("Start loading Recategory definition of " .. definition.modId)
+  print("Start loading ReCategory definition of mod ID: " .. definition.modId)
   local prefix = "Recat_"
   local sm = getScriptManager()
   for category, items in pairs(definition.categories) do
