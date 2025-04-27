@@ -1,10 +1,8 @@
-if ReCategory == nil then
-  ReCategory = {
-    Definitions = {}
-  }
-end
+ReCategory = {
+  Definitions = {}
+}
 
-function loadDefinition(categories)
+function ReCategoryLoadDefinition(categories)
   local prefix = "Recat_"
   local sm = getScriptManager()
   for category, items in pairs(categories) do
@@ -21,7 +19,7 @@ end
 function ReCategoryOnGameBoot()
   for _, definition in ipairs(ReCategory.Definitions) do
     if definition.modId == "vanilla" or getActivatedMods():contains(definition.modId) then
-      loadDefinition(definition.category)
+      ReCategoryLoadDefinition(definition.category)
     end
   end
 end

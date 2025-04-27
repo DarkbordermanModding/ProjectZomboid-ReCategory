@@ -1,5 +1,6 @@
 -- VanillaAdjustments
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=2886750009
+require("recategory")
 Definition2886750009 = {
   modId = "\\darkborderman.VanillaAdjustments",
   category = {
@@ -10,9 +11,4 @@ Definition2886750009 = {
   }
 }
 
-if ReCategory == nil then
-  ReCategory = {
-    Definitions = {}
-  }
-end
 table.insert(ReCategory.Definitions, Definition2886750009)

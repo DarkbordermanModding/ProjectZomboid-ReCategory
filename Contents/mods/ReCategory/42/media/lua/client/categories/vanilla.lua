@@ -1,3 +1,7 @@
+-- Vanilla Items
+-- always loaded
+require("recategory")
+
 DefinitionVanilla = {
   modId = "vanilla",
   category = {
@@ -500,12 +504,5 @@ DefinitionVanilla = {
     },
   }
 }
-
-
-if ReCategory == nil then
-  ReCategory = {
-    Definitions = {}
-  }
-end
 
 table.insert(ReCategory.Definitions, DefinitionVanilla)
