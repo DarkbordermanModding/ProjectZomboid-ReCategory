@@ -4,9 +4,6 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
-    Recat_FirstAid_Drug = {
-
-    },
     Recat_FirstAid_Smoking = {
       "Base.Cigarillo",
       "Base.CanPipe",
@@ -421,6 +418,33 @@ DefinitionVanilla = {
       "Base.Brochure",
       "Base.Flier",
       "Base.Flier_Nolans",
+    },
+    Recat_Literature_Skill = {
+      "Base.BookFarming1",
+      "Base.BookFarming2",
+      "Base.BookFarming3",
+      "Base.BookFarming4",
+      "Base.BookFarming5",
+      "Base.BookAiming1",
+      "Base.BookAiming2",
+      "Base.BookAiming3",
+      "Base.BookAiming4",
+      "Base.BookAiming5",
+      "Base.BookHusbandry1",
+      "Base.BookHusbandry2",
+      "Base.BookHusbandry3",
+      "Base.BookHusbandry4",
+      "Base.BookHusbandry5",
+      "Base.BookButchering1",
+      "Base.BookButchering2",
+      "Base.BookButchering3",
+      "Base.BookButchering4",
+      "Base.BookButchering5",
+      "Base.BookCarpentry1",
+      "Base.BookCarpentry2",
+      "Base.BookCarpentry3",
+      "Base.BookCarpentry4",
+      "Base.BookCarpentry5",
     },
     Recat_Food_Imperishable = {
       "Base.DriedApricots",
