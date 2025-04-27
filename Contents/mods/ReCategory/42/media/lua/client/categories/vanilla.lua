@@ -505,4 +505,4 @@ DefinitionVanilla = {
   }
 }
 
-table.insert(ReCategory.Definitions, DefinitionVanilla)
+table.insert(ReCategoryDefinitions, DefinitionVanilla)

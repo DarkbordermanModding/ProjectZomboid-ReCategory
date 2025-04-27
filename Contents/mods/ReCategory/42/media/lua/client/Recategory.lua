@@ -1,6 +1,4 @@
-ReCategory = {
-  Definitions = {}
-}
+ReCategoryDefinitions = {}
 
 function ReCategoryLoadDefinition(categories)
   local prefix = "Recat_"
@@ -17,7 +15,7 @@ function ReCategoryLoadDefinition(categories)
 end
 
 function ReCategoryOnGameBoot()
-  for _, definition in ipairs(ReCategory.Definitions) do
+  for _, definition in ipairs(ReCategoryDefinitions) do
     if definition.modId == "vanilla" or getActivatedMods():contains(definition.modId) then
       ReCategoryLoadDefinition(definition.category)
     end

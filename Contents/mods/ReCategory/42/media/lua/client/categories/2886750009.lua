@@ -11,4 +11,4 @@ Definition2886750009 = {
   }
 }
 
-table.insert(ReCategory.Definitions, Definition2886750009)
+table.insert(ReCategoryDefinitions, Definition2886750009)
