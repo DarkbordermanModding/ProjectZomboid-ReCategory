@@ -1,10 +1,9 @@
 -- Vanilla Items
--- always loaded
+-- always loaded, don't need to add it to ReCategoryDefinitions table
 require("recategory")
-
 DefinitionVanilla = {
   modId = "vanilla",
-  category = {
+  categories = {
     Recat_FirstAid_Drug = {
 
     },
@@ -504,5 +503,3 @@ DefinitionVanilla = {
     },
   }
 }
-
-table.insert(ReCategoryDefinitions, DefinitionVanilla)

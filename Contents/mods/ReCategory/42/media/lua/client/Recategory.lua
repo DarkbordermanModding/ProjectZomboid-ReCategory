@@ -1,9 +1,10 @@
 ReCategoryDefinitions = {}
 
-function ReCategoryLoadDefinition(categories)
+function ReCategoryLoadDefinition(definition)
+  print("Start loading Recategory definition of " .. definition.modId)
   local prefix = "Recat_"
   local sm = getScriptManager()
-  for category, items in pairs(categories) do
+  for category, items in pairs(definition.categories) do
     for _, item in ipairs(items) do
       local origin = sm:getItem(item):getDisplayCategory()
       if string.find(origin, "^" .. prefix) then
@@ -15,9 +16,11 @@ function ReCategoryLoadDefinition(categories)
 end
 
 function ReCategoryOnGameBoot()
+  -- Vanilla must load first
+  ReCategoryLoadDefinition(DefinitionVanilla)
   for _, definition in ipairs(ReCategoryDefinitions) do
-    if definition.modId == "vanilla" or getActivatedMods():contains(definition.modId) then
-      ReCategoryLoadDefinition(definition.category)
+    if getActivatedMods():contains(definition.modId) then
+      ReCategoryLoadDefinition(definition)
     end
   end
 end
