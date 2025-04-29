@@ -733,8 +733,32 @@ DefinitionVanilla = {
     Recat_Food_Perishable = {
   
     },
+    Recat_Food_Material = {
+      "Base.DriedBlackBeans",
+      "Base.DriedChickpeas",
+      "Base.DriedKidneyBeans",
+      "Base.DriedLentils",
+      "Base.DriedSplitPeas",
+      "Base.DriedWhiteBeans",
+      "Base.Rice",
+      "Base.Cornflour2",
+      "Base.Cornmeal2",
+      "Base.Flour2",
+      "Base.CatFoodBag",
+      "Base.DogFoodBag",
+    },
     Recat_Food_Seasoning = {
-      "Base.Capers",
+      "Base.BaconBits",
+      "Base.Roses",
+      "Base.RosePetalsDried",
+      "Base.Lavender",
+      "Base.LavenderPetalsDried",
+      "Base.Butter",
+      "Base.SourCream",
+      "Base.BouillonCube",
+      "Base.Seaweed",
+      "Base.Sugar",
+      "Base.SugarBrown",
       -- TBD
     },
     Recat_Fishing_Lure = {

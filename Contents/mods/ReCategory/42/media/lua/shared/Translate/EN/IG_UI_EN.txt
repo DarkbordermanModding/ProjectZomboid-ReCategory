@@ -16,6 +16,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Fishing_Lure = "Fishing - Lure"
 	IGUI_ItemCat_Recat_Food_Imperishable = "Food - Imperishable"
 	IGUI_ItemCat_Recat_Food_Perishable = "Food - Perishable"
+	IGUI_ItemCat_Recat_Food_Material = "Food - Material"
 	IGUI_ItemCat_Recat_Food_Seasoning = "Food - Seasoning"
 	IGUI_ItemCat_Recat_Music_Tool = "Music - Tool"
 	IGUI_ItemCat_Recat_Music_Junk = "Music - Junk"
