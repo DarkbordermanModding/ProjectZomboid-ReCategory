@@ -66,6 +66,11 @@ DefinitionVanilla = {
       "Base.MotionSensor",
       "Base.ScannerModule",
     },
+    Recat_Electrical_Media = {
+      "Base.Disc_Retail",
+      "Base.VHS_Home",
+      "Base.VHS_Retail",
+    },
     Recat_Electrical_Scrapable = {
       "Base.CordlessPhone",
       "Base.CDplayer",
@@ -731,7 +736,7 @@ DefinitionVanilla = {
       -- TBD
     },
     Recat_Food_Perishable = {
-  
+      -- TBD
     },
     Recat_Food_Material = {
       "Base.DriedBlackBeans",
@@ -759,6 +764,29 @@ DefinitionVanilla = {
       "Base.Seaweed",
       "Base.Sugar",
       "Base.SugarBrown",
+      "Base.SugarCubes",
+      "Base.SugarPacket",
+      "Base.FishRoe",
+      "Base.FourLeafClover",
+      "Base.LemonGrass",
+      "Base.Nettles",
+      "Base.Rosehips",
+      "Base.Thistle",
+      "Base.Violets",
+      "Base.BlackSage",
+      "Base.BlackSageDried",
+      "Base.CommonMallow",
+      "Base.CommonMallowDried",
+      "Base.Ginseng",
+      "Base.WildGarlic2",
+      "Base.WildGarlicDried",
+      "Base.Lemon",
+      "Base.Lime",
+      "Base.BalsamicVinegar",
+      "Base.BBQSauce",
+      "Base.Seasoning_Basil",
+      "Base.Seasoning_Chives",
+      "Base.Seasoning_Cilantro",
       -- TBD
     },
     Recat_Fishing_Lure = {
