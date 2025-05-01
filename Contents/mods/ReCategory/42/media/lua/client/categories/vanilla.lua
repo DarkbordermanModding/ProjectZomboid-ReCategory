@@ -659,7 +659,6 @@ DefinitionVanilla = {
     Recat_Food_Imperishable = {
       "Base.DriedApricots",
       "Base.CandyFruitSlices",
-      "Base.Candycane",
       "Base.CandyCorn",
       "Base.TinnedBeans",
       "Base.CannedCarrots2",
