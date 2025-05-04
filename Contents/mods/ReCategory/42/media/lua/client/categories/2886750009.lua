@@ -10,6 +10,7 @@ table.insert(
       Recat_LiquidContainer_Medium = {
         "Base.BeerBottle",
         "Base.BeerImported",
+        "Base.BeerPack",
       }
     }
   }

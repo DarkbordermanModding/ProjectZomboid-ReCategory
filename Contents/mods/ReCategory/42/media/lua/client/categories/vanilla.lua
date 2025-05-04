@@ -100,7 +100,9 @@ DefinitionVanilla = {
       "Base.CanteenMilitary",
       "Base.BeerCanEmpty",
       "Base.BeerBottle",
+      "Base.BeerPack",
       "Base.BeerCan",
+      "Base.BeerCanPack",
       "Base.Pop",
       "Base.Pop2",
       "Base.Pop3",
@@ -747,6 +749,11 @@ DefinitionVanilla = {
       "Base.TortillaChips",
       "Base.PorkRinds",
       "Base.Peanuts",
+      "Base.CookieJelly",
+      "Base.CrispyRiceSquare",
+      "Base.OatsRaw",
+      "Base.Pasta",
+      "Base.CocoaPowder",
       -- TBD
     },
     Recat_Food_Perishable = {
@@ -917,13 +924,13 @@ DefinitionVanilla = {
       "Base.Violin",
     },
     Recat_Memento_Person = {
-      "Base.BusinessCard",
-      "Base.CreditCard",
-      "Base.Badge",
-      "Base.IDcard_Male",
-      "Base.IDcard_Female",
-      "Base.ParkingTicket",
-      "Base.SpeedingTicket",
+      -- "Base.BusinessCard",
+      -- "Base.CreditCard",
+      -- "Base.Badge",
+      -- "Base.IDcard_Male",
+      -- "Base.IDcard_Female",
+      -- "Base.ParkingTicket",
+      -- "Base.SpeedingTicket",
     },
     -- Original Categories
     Hidden = {
