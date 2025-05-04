@@ -656,6 +656,13 @@ DefinitionVanilla = {
       "Base.BookTrappingSet",
       "Base.BookMetalWeldingSet",
     },
+    Recat_Literature_Junk = {
+      "Base.Receipt",
+      "Base.Paperwork",
+      "Base.Note",
+      "Base.GenericMail",
+      "Base.LetterHandwritten",
+    },
     Recat_Food_Imperishable = {
       "Base.DriedApricots",
       "Base.CandyFruitSlices",
@@ -732,6 +739,14 @@ DefinitionVanilla = {
       "Base.Modjeska",
       "Base.CandyNovapops",
       "Base.CookiesOatmeal",
+      "Base.Plonkies",
+      "Base.Peppermint",
+      "Base.BeefJerky",
+      "Base.Jujubes",
+      "Base.QuaggaCakes",
+      "Base.TortillaChips",
+      "Base.PorkRinds",
+      "Base.Peanuts",
       -- TBD
     },
     Recat_Food_Perishable = {
@@ -900,6 +915,15 @@ DefinitionVanilla = {
       "Base.Saxophone",
       "Base.Trumpet",
       "Base.Violin",
+    },
+    Recat_Memento_Person = {
+      "Base.BusinessCard",
+      "Base.CreditCard",
+      "Base.Badge",
+      "Base.IDcard_Male",
+      "Base.IDcard_Female",
+      "Base.ParkingTicket",
+      "Base.SpeedingTicket",
     },
     -- Original Categories
     Hidden = {
