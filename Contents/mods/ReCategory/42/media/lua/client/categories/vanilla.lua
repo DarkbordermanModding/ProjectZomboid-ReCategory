@@ -754,6 +754,11 @@ DefinitionVanilla = {
       "Base.OatsRaw",
       "Base.Pasta",
       "Base.CocoaPowder",
+      "Base.RockCandy",
+      "Base.ScoutCookies",
+      "Base.RicePaper",
+      "Base.Pretzel",
+      "Base.MacandcheesePowder",
       -- TBD
     },
     Recat_Food_Perishable = {
