@@ -935,15 +935,6 @@ DefinitionVanilla = {
       "Base.Trumpet",
       "Base.Violin",
     },
-    Recat_Memento_Person = {
-      -- "Base.BusinessCard",
-      -- "Base.CreditCard",
-      -- "Base.Badge",
-      -- "Base.IDcard_Male",
-      -- "Base.IDcard_Female",
-      -- "Base.ParkingTicket",
-      -- "Base.SpeedingTicket",
-    },
     -- Original Categories
     Hidden = {
       "Base.TestWaterMug",
