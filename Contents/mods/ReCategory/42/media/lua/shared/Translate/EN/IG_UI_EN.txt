@@ -25,4 +25,6 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Music_Junk = "Music - Junk"
 	IGUI_ItemCat_Recat_Music_Weapon = "Music - Weapon"
 	IGUI_ItemCat_Recat_Tailoring_Material = "Tailoring - Material"
+	IGUI_ItemCat_Recat_Mechanic_Material = "Mechanic - Material"
+	IGUI_ItemCat_Recat_Mechanic_Tool = "Mechanic - Tool"
 }

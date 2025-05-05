@@ -955,6 +955,12 @@ DefinitionVanilla = {
       "Base.Yarn",
       "Base.Tarp",
     },
+    Recat_Mechanic_Material = {
+
+    },
+    Recat_Mechanic_Tool = {
+
+    },
     -- Original Categories
     Hidden = {
       "Base.TestWaterMug",
