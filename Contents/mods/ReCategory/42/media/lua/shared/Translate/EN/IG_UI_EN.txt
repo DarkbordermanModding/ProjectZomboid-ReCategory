@@ -12,6 +12,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Electrical_Material = "Electrical - Material"
 	IGUI_ItemCat_Recat_Electrical_Media = "Electrical - Media"
 	IGUI_ItemCat_Recat_Electrical_Scrapable = "Electrical - Scrapable"
+	IGUI_ItemCat_Recat_Electrical_Tool = "Electrical - Tool"
 	IGUI_ItemCat_Recat_LiquidContainer_Small = "Liquid Container - Small"
 	IGUI_ItemCat_Recat_LiquidContainer_Medium = "Liquid Container - Medium"
 	IGUI_ItemCat_Recat_LiquidContainer_Large = "Liquid Container - Large"

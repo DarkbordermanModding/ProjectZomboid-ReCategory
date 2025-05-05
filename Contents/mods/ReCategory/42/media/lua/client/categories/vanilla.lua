@@ -71,6 +71,13 @@ DefinitionVanilla = {
       "Base.VHS_Home",
       "Base.VHS_Retail",
     },
+    Recat_Electrical_Tool = {
+      "Base.MetalworkingPliers",
+      "Base.Pliers",
+      "Base.Screwdriver_Improvised",
+      "Base.Screwdriver_Old",
+      "Base.Screwdriver",
+    },
     Recat_Electrical_Scrapable = {
       "Base.CordlessPhone",
       "Base.CDplayer",
