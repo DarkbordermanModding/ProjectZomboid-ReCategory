@@ -766,6 +766,8 @@ DefinitionVanilla = {
       "Base.RicePaper",
       "Base.Pretzel",
       "Base.MacandcheesePowder",
+      "Base.Ramen",
+      "Base.Chocolate_RoysPBPucks",
       -- TBD
     },
     Recat_Food_Perishable = {
@@ -784,6 +786,8 @@ DefinitionVanilla = {
       "Base.Flour2",
       "Base.CatFoodBag",
       "Base.DogFoodBag",
+      "Base.Yeast",
+      "Base.BakingSoda",
     },
     Recat_Food_Seasoning = {
       "Base.BaconBits",
@@ -934,6 +938,22 @@ DefinitionVanilla = {
       "Base.Saxophone",
       "Base.Trumpet",
       "Base.Violin",
+    },
+    Recat_Tailoring_Material = {
+      "Base.RippedSheets",
+      "Base.RippedSheetsDirty",
+      "Base.RippedSheetsBundle",
+      "Base.LeatherStrips",
+      "Base.LeatherStripsDirty",
+      "Base.LeatherStripsBundle",
+      "Base.DenimStrips",
+      "Base.DenimStripsDirty",
+      "Base.DenimStripsBundle",
+      "Base.Buckle",
+      "Base.Thread",
+      "Base.Twine",
+      "Base.Yarn",
+      "Base.Tarp",
     },
     -- Original Categories
     Hidden = {
