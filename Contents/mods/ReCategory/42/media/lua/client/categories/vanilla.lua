@@ -680,7 +680,7 @@ DefinitionVanilla = {
       "Base.BookTrappingSet",
       "Base.BookMetalWeldingSet",
     },
-    Recat_Literature_Junk = {
+    Recat__Literature_Junk = {
       "Base.Receipt",
       "Base.Paperwork",
       "Base.Note",
@@ -941,7 +941,7 @@ DefinitionVanilla = {
       "Base.Harmonica",
       "Base.Whistle",
     },
-    Recat_Music_Junk = {
+    Recat__Music_Junk = {
       "Base.GuitarPick",
       "Base.TuningFork",
     },
@@ -988,7 +988,7 @@ DefinitionVanilla = {
       "Base.KnittingNeedles_Bone",
       "Base.KnittingNeedles_Wood",
     },
-    Recat_Tailoring_Junk = {
+    Recat__Tailoring_Junk = {
       "Base.Thimble",
       "Base.MeasuringTape",
     },
@@ -1113,7 +1113,7 @@ DefinitionVanilla = {
       "Base.Locket",
       "Base.Doodle",
     },
-    Recat_Memento_Junk = {
+    Recat__Memento_Junk = {
       "Base.StockCertificate",
       "Base.SpeedingTicket",
       "Base.IDcard",
@@ -1139,6 +1139,7 @@ DefinitionVanilla = {
       "Base.Sapphire",
       "Base.SilverCoin",
     },
+    -- JUNK SECTION, we use two underscore to make it on last order
     -- Original Categories
     Hidden = {
       "Base.TestWaterMug",
