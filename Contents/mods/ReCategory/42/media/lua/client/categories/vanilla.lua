@@ -981,6 +981,12 @@ DefinitionVanilla = {
     Recat_Tailoring_Tool = {
       "Base.Awl",
       "Base.Needle",
+      "Base.Needle_Bone",
+      "Base.Needle_Brass",
+      "Base.Needle_Forged",
+      "Base.KnittingNeedles",
+      "Base.KnittingNeedles_Bone",
+      "Base.KnittingNeedles_Wood",
     },
     Recat_Tailoring_Junk = {
       "Base.Thimble",
@@ -1105,6 +1111,7 @@ DefinitionVanilla = {
       "Base.Pocketwatch",
       "Base.Postcard",
       "Base.Locket",
+      "Base.Doodle",
     },
     Recat_Memento_Junk = {
       "Base.StockCertificate",
