@@ -136,10 +136,11 @@ DefinitionVanilla = {
       "Base.WaterRationCanEmpty",
       "Base.WaterRationCan_Box",
       "Base.CleaningLiquid2",
-      "Base.Goblet_Wood",
       "Base.Flask",
       "Base.Goblet",
       "Base.Goblet_Gold",
+      "Base.Goblet_Silver",
+      "Base.Goblet_Wood",
       "Base.Disinfectant",
     },
     Recat_LiquidContainer_Medium = {
@@ -1085,6 +1086,30 @@ DefinitionVanilla = {
       "Base.TirePump",
       "Base.Wrench",
       "Base.Ratchet",
+    },
+    Recat_Memento_Memory = {
+      "Base.Photo_VeryOld",
+      "Base.Photo_Secret",
+      "Base.Photo_Racy",
+      "Base.Photo",
+      "Base.Photo_Hass",
+      "Base.Pocketwatch",
+      "Base.Postcard",
+    },
+    Recat_Memento_Junk = {
+      "Base.StockCertificate",
+      "Base.SpeedingTicket",
+      "Base.IDcard",
+      "Base.IDcard_Stolen",
+      "Base.IDcard_Female",
+      "Base.IDcard_Male",
+      "Base.IDcard_Blank",
+      "Base.CreditCard",
+    },
+    Recat_Memento_Currency = {
+      "Base.Money",
+      "Base.MoneyBundle",
+      "Base.Emerald",
     },
     -- Original Categories
     Hidden = {
