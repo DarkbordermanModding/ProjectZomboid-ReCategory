@@ -718,11 +718,9 @@ DefinitionVanilla = {
       "Base.Chocolate_GalacticDairy",
       "Base.SnoGlobes",
       "Base.MysteryCan",
-      "Base.CandiedApple",
       "Base.CandyPackage",
       "Base.CinnamonRoll",
       "Base.Lollipop",
-      "Base.Cupcake",
       "Base.DehydratedMeatStick",
       "Base.DentedCan",
       "Base.Chocolate_Deux",
@@ -768,6 +766,9 @@ DefinitionVanilla = {
       "Base.MacandcheesePowder",
       "Base.Ramen",
       "Base.Chocolate_RoysPBPucks",
+      "Base.Popcorn",
+      "Base.Coffee2",
+      "Base.JamFruit",
       -- TBD
     },
     Recat_Food_Perishable = {
@@ -788,6 +789,8 @@ DefinitionVanilla = {
       "Base.DogFoodBag",
       "Base.Yeast",
       "Base.BakingSoda",
+      "Base.PancakeMix",
+      "Base.GravyMix",
     },
     Recat_Food_Seasoning = {
       "Base.BaconBits",
@@ -998,15 +1001,16 @@ DefinitionVanilla = {
       "Base.HoodOrnament_Badger",
       "Base.HoodOrnament_Beaver",
       "Base.HoodOrnament_Spiffo",
-      "Base.LightBarBlue",
-      "Base.LightBarRed",
-      "Base.LightBarRedBlue",
+      "Base.LightbarBlue",
+      "Base.LightbarRed",
+      "Base.LightbarRedBlue",
       "Base.LightbarYellow",
     },
     Recat_Mechanic_Tool = {
       "Base.CarBatteryCharger",
       "Base.Jack",
       "Base.LugWrench",
+      "Base.TireIron",
     },
     -- Original Categories
     Hidden = {
