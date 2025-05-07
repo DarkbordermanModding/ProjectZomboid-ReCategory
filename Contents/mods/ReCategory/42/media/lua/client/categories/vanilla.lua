@@ -99,6 +99,7 @@ DefinitionVanilla = {
       "Base.Bullhorn",
     },
     Recat_LiquidContainer_Small = {
+      "Base.WaterDish",
       "Base.MayonnaiseEmpty",
       "Base.PlasticCup",
       "Base.Canteen",
@@ -817,8 +818,8 @@ DefinitionVanilla = {
     Recat_Food_Perishable = {
       "Base.Acorn",
       "Base.Apple",
-      "Base.ApplePie",
-      "Base.Avocade",
+      "Base.PieApple",
+      "Base.Avocado",
       "Base.Bacon",
       "Base.BaconRashers",
       "Base.Frozen_ChickenNuggets",
@@ -1200,6 +1201,7 @@ DefinitionVanilla = {
     Hidden = {
       "Base.TestWaterMug",
       "Base.Bitters",
+      "Base.Animal",
     },
     Furniture = {
       "Base.TvAntique",
