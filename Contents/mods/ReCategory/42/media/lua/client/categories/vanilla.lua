@@ -681,6 +681,7 @@ DefinitionVanilla = {
       "Base.BookMetalWeldingSet",
     },
     Recat__Literature_Junk = {
+      "Base.Clipboard",
       "Base.Receipt",
       "Base.Paperwork",
       "Base.Note",
@@ -975,6 +976,7 @@ DefinitionVanilla = {
       "Base.Twine",
       "Base.Yarn",
       "Base.Tarp",
+      "Base.Sheet",
       "Base.Button",
       "Base.BurlapPiece",
     },
