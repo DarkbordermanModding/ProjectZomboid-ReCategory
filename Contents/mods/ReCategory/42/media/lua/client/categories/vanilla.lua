@@ -1033,6 +1033,9 @@ DefinitionVanilla = {
       "Base.Sheet",
       "Base.Button",
       "Base.BurlapPiece",
+      "Base.Garbagebag",
+      "Base.Bag_TrashBag",
+      "Base.Garbagebag_box",
     },
     Recat_Tailoring_Tool = {
       "Base.Awl",
