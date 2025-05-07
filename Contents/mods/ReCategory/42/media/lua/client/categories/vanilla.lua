@@ -784,7 +784,11 @@ DefinitionVanilla = {
       "Base.Chocolate_RoysPBPucks",
       "Base.Popcorn",
       "Base.Coffee2",
+      "Base.Teabag2",
+      "Base.Chocolate_HeartBox",
       "Base.JamFruit",
+      "Base.JamMarmalade",
+      "Base.CookiesSugar",
       "Base.PeanutButter",
       "Base.Marshmallows",
       "Base.TinnedBeans_Box",
@@ -807,6 +811,8 @@ DefinitionVanilla = {
       "Base.TunaTin_Box",
       "Base.TinnedSoup_Box",
       "Base.DentedCan_Box",
+      "Base.Macandcheese_Box",
+      "Base.MysteryCan_Box",
       -- TBD
     },
     Recat_Food_Perishable = {
@@ -1164,9 +1170,11 @@ DefinitionVanilla = {
       "Base.SilverCoin",
     },
     -- JUNK SECTION, we use two underscore to make it on last order
+
     -- Original Categories
     Hidden = {
       "Base.TestWaterMug",
+      "Base.Bitters",
     },
     Furniture = {
       "Base.TvAntique",
