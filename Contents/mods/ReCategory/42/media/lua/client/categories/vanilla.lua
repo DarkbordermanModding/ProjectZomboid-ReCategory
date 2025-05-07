@@ -785,6 +785,18 @@ DefinitionVanilla = {
       "Base.Popcorn",
       "Base.Coffee2",
       "Base.JamFruit",
+      "Base.TinnedBeans_Box",
+      "Base.CannedCarrots_Box",
+      "Base.CannedChili_Box",
+      "Base.CannedCorn_Box",
+      "Base.CannedCornedBeef_Box",
+      "Base.Dogfood_Box",
+      "Base.CannedMilk_Box",
+      "Base.CannedFruitBeverage_Box",
+      "Base.CannedFruitCocktail_Box",
+      "Base.CannedMushroomSoup_Box",
+      "Base.CannedPeaches_Box",
+      "Base.CannedPeas_Box",
       -- TBD
     },
     Recat_Food_Perishable = {
