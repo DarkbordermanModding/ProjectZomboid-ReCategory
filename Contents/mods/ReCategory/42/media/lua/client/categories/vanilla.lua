@@ -872,6 +872,18 @@ DefinitionVanilla = {
       "Base.SweetPotato",
       "Base.Broccoli",
       "Base.CakeChocolate",
+      "Base.FrenchFries",
+      "Base.JellyRoll",
+      "Base.Mango",
+      "Base.MuttonChop",
+      "Base.BunsHamburger",
+      "Base.BagelPoppy",
+      "Base.Popsicle_Melted",
+      "Base.PotatoPancakes",
+      "Base.Sausage",
+      "Base.BagelSesame",
+      "Base.Steak",
+      "Base.TacoShell",
       -- TBD
     },
     Recat_Food_Material = {
