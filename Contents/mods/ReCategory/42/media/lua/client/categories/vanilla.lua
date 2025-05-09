@@ -11,6 +11,8 @@ DefinitionVanilla = {
       "Base.Whisk",
       "Base.Corkscrew",
       "Base.BottleOpener",
+      "Base.PizzaCutter",
+      "Base.Spatula",
     },
     Recat__Cooking_Junk = {
       "Base.CheeseGrater",
@@ -20,6 +22,7 @@ DefinitionVanilla = {
       "Base.BastingBrush",
       "Base.CuttingBoardPlastic",
       "Base.CuttingBoardWooden",
+      "Base.Strainer",
     },
     Recat_FirstAid_Wound = {
       "Base.Bandaid",
@@ -90,6 +93,7 @@ DefinitionVanilla = {
       "Base.ElectronicsScrap",
       "Base.MotionSensor",
       "Base.ScannerModule",
+      "Base.Timer",
     },
     Recat_Electrical_Media = {
       "Base.Disc_Retail",
@@ -985,6 +989,19 @@ DefinitionVanilla = {
       "Base.DeadRat",
       "Base.Waffles",
       "Base.Popsicle_Melted",
+      "Base.ChannelCatfish",
+      "Base.TunaTinOpen",
+      "Base.TinnedSoupOpen",
+      "Base.CannedTomatoOpen",
+      "Base.CannedBologneseOpen",
+      "Base.CannedSardinesOpen",
+      "Base.CannedPotatoOpen",
+      "Base.ChickenWhole",
+      "Base.ChickenFillet",
+      "Base.ChickenNuggets",
+      "Base.ChickenWings",
+      "Base.Cornbread",
+      "Base.Crayfish",
       -- TBD
     },
     Recat_Food_Material = {
