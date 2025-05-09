@@ -6,9 +6,20 @@ DefinitionVanilla = {
   categories = {
     Recat_Cooking_Tool = {
       "Base.TinOpener",
+      "Base.TinOpener_Old",
+      "Base.P38",
+      "Base.Whisk",
+      "Base.Corkscrew",
+      "Base.BottleOpener",
     },
     Recat__Cooking_Junk = {
       "Base.CheeseGrater",
+      "Base.OvenMitt",
+      "Base.Chopsticks",
+      "Base.CocktailUmbrella",
+      "Base.BastingBrush",
+      "Base.CuttingBoardPlastic",
+      "Base.CuttingBoardWooden",
     },
     Recat_FirstAid_Wound = {
       "Base.Bandaid",
@@ -860,7 +871,6 @@ DefinitionVanilla = {
       "Base.Blackbeans",
       "Base.CakeBlackForest",
       "Base.PieBlueberry",
-      "Base.Broccoli",
       "Base.BrusselSprouts",
       "Base.Cabbage",
       "Base.CakeSlice",
