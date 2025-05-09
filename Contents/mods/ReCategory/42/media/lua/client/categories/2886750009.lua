@@ -7,6 +7,9 @@ table.insert(
   {
     modId = "\\darkborderman.VanillaAdjustments",
     categories = {
+      Recat_Cooking_Tool = {
+        "Base.CheeseGrater",
+      },
       Recat_LiquidContainer_Medium = {
         "Base.BeerBottle",
         "Base.BeerImported",

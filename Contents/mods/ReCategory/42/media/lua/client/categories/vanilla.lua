@@ -4,6 +4,20 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
+    Recat_Cooking_Tool = {
+      "Base.TinOpener",
+    },
+    Recat__Cooking_Junk = {
+      "Base.CheeseGrater",
+    },
+    Recat_FirstAid_Wound = {
+      "Base.Bandaid",
+    },
+    Recat__FirstAid_Junk = {
+      "Base.TongueDepressor",
+      "Base.TongueDepressorBox",
+      "Base.Stethoscope",
+    },
     Recat_FirstAid_Smoking = {
       "Base.Cigarillo",
       "Base.CanPipe",
@@ -1317,8 +1331,6 @@ DefinitionVanilla = {
       "Base.Sapphire",
       "Base.SilverCoin",
     },
-    -- JUNK SECTION, we use two underscore to make it on last order
-
     -- Original Categories
     Hidden = {
       "Base.TestWaterMug",
