@@ -981,7 +981,7 @@ DefinitionVanilla = {
       "Base.PancakeMix",
       "Base.GravyMix",
     },
-    Recat_Food_Seasoning = {
+    Recat_Food_Spice = {
       "Base.BaconBits",
       "Base.Roses",
       "Base.RosePetalsDried",
@@ -1330,5 +1330,14 @@ DefinitionVanilla = {
       "Base.TvWideScreen",
       "Base.TvBlack",
     },
+    Container = {
+      "Base.HollowBook_Valuables",
+      "Base.HollowBook_Kids",
+      "Base.HollowBook_Handgun",
+      "Base.HollowBook",
+      "Base.HollowBook_Prison",
+      "Base.HollowBook_Whiskey",
+      "Base.HollowFancyBook",
+    }
   }
 }
