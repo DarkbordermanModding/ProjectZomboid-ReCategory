@@ -33,6 +33,11 @@ DefinitionVanilla = {
       "Base.WoodenSpoon",
       "Base.RollingPin",
       "Base.PlasticKnife",
+      "Base.DullBoneKnife",
+      "Base.BreadKnife",
+      "Base.ButterKnife",
+      "Base.ButterKnife_Gold",
+      "Base.ButterKnife_Silver",
     },
     Recat_Cooking_Material = {
       "Base.BakingTray",
@@ -57,6 +62,9 @@ DefinitionVanilla = {
       "Base.SaucepanCopper",
       "Base.Saucepan",
       "Base.PotForged",
+      "Base.GridlePan",
+      "Base.Pan",
+      "Base.PanForged",
     },
     Recat__Cooking_Junk = {
       "Base.CheeseGrater",
