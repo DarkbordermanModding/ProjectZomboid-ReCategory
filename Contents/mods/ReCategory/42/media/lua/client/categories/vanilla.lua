@@ -4,6 +4,24 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
+    Recat_Tool_Sharpblade = {
+      "Base.KnifeFillet",
+      "Base.KitchenKnifeForged",
+      "Base.KitchenKnife",
+      "Base.MeatCleaverForged",
+      "Base.MeatCleaver",
+      "Base.KnifeParing",
+      "Base.SteakKnife",
+      "Base.KnifeSushi",
+    },
+    Recat_Tool_Dullblade = {
+      "Base.PlasticKnife",
+      "Base.DullBoneKnife",
+      "Base.BreadKnife",
+      "Base.ButterKnife",
+      "Base.ButterKnife_Gold",
+      "Base.ButterKnife_Silver",
+    },
     Recat_Blacksmithing_Tool = {
       "Base.KitchenTongs",
     },
@@ -32,12 +50,6 @@ DefinitionVanilla = {
       "Base.WoodenFork",
       "Base.WoodenSpoon",
       "Base.RollingPin",
-      "Base.PlasticKnife",
-      "Base.DullBoneKnife",
-      "Base.BreadKnife",
-      "Base.ButterKnife",
-      "Base.ButterKnife_Gold",
-      "Base.ButterKnife_Silver",
     },
     Recat_Cooking_Material = {
       "Base.BakingTray",
@@ -1266,6 +1278,7 @@ DefinitionVanilla = {
       "Base.KnittingNeedles",
       "Base.KnittingNeedles_Bone",
       "Base.KnittingNeedles_Wood",
+      "Base.IcePick",
     },
     Recat__Tailoring_Junk = {
       "Base.Thimble",
