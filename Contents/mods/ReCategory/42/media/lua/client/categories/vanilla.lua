@@ -196,6 +196,8 @@ DefinitionVanilla = {
       "Base.MotionSensor",
       "Base.ScannerModule",
       "Base.Timer",
+      "Base.Coldpack",
+      "Base.ColdpackBox",
     },
     Recat_Electrical_Media = {
       "Base.Disc_Retail",
@@ -1106,6 +1108,11 @@ DefinitionVanilla = {
       "Base.ChickenWings",
       "Base.Cornbread",
       "Base.Crayfish",
+      "Base.Egg",
+      "Base.EggScrambled",
+      "Base.SushiEgg",
+      "Base.FishFried",
+      "Base.FishFingers",
       -- TBD
     },
     Recat_Food_Material = {
