@@ -1,5 +1,6 @@
 IGUI_EN = {
 	IGUI_ItemCat_Recat_Debug = "Debug",
+	IGUI_ItemCat_Recat_Blacksmithing_Tool = "Blacksmithing - Tool"
 	IGUI_ItemCat_Recat_Cooking_Tool = "Cooking - Tool"
 	IGUI_ItemCat_Recat_Cooking_Material = "Cooking - Material"
 	IGUI_ItemCat_Recat__Cooking_Junk = "Cooking - Junk"

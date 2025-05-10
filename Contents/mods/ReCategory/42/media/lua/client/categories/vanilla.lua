@@ -4,6 +4,9 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
+    Recat_Blacksmithing_Tool = {
+      "Base.KitchenTongs",
+    },
     Recat_Cooking_Tool = {
       "Base.TinOpener",
       "Base.TinOpener_Old",
@@ -29,6 +32,7 @@ DefinitionVanilla = {
       "Base.WoodenFork",
       "Base.WoodenSpoon",
       "Base.RollingPin",
+      "Base.PlasticKnife",
     },
     Recat_Cooking_Material = {
       "Base.BakingTray",
@@ -52,6 +56,7 @@ DefinitionVanilla = {
       "Base.CeramicTeacup",
       "Base.SaucepanCopper",
       "Base.Saucepan",
+      "Base.PotForged",
     },
     Recat__Cooking_Junk = {
       "Base.CheeseGrater",
@@ -62,6 +67,11 @@ DefinitionVanilla = {
       "Base.CuttingBoardPlastic",
       "Base.CuttingBoardWooden",
       "Base.Strainer",
+      "Base.SkewersWooden",
+      "Base.Ladle",
+      "Base.GrillBrush",
+      "Base.Plate",
+      "Base.ClayPlate",
     },
     Recat_FirstAid_Wound = {
       "Base.Bandaid",
@@ -260,6 +270,8 @@ DefinitionVanilla = {
       "Base.HairDyeCommon",
       "Base.HairDyeUncommon",
       "Base.HairDyeRare",
+      "Base.Kettle",
+      "Base.Kettle_Copper",
     },
     Recat_LiquidContainer_Large = {
       "Base.PetrolCan",
