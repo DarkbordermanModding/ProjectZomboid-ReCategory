@@ -72,6 +72,7 @@ DefinitionVanilla = {
       "Base.GrillBrush",
       "Base.Plate",
       "Base.ClayPlate",
+      "Base.CarvingFork2",
     },
     Recat_FirstAid_Wound = {
       "Base.Bandaid",
