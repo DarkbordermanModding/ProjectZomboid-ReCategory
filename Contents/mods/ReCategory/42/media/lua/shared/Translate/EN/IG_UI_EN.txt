@@ -14,6 +14,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_FirstAid_Tool = "Medical - Tool"
 	IGUI_ItemCat_Recat_FirstAid_Wound = "Medical - Wound"
 	IGUI_ItemCat_Recat_FirstAid_Smoking = "Medical - Smoking"
+	IGUI_ItemCat_Recat_FirstAid_Medicine = "Medical - Medicine"
 	IGUI_ItemCat_Recat__FirstAid_Junk = "Medical - Junk"
 	IGUI_ItemCat_Recat_Electrical_Device = "Electrical - Device"
 	IGUI_ItemCat_Recat_Electrical_Material = "Electrical - Material"

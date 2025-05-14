@@ -98,6 +98,18 @@ DefinitionVanilla = {
       "Base.ClayPlate",
       "Base.CarvingFork2",
     },
+    Recat_FirstAid_Medicine = {
+      "Base.Antibiotics",
+      "Base.PillsAntiDep",
+      "Base.PillsBeta",
+      "Base.AntibioticsBox",
+      "Base.TissueBox",
+      "Base.PillsVitamins",
+      "Base.Pills",
+      "Base.PillsSleepingTablets",
+      "Base.Tissue",
+      "Base.ToiletPaper",
+    },
     Recat_FirstAid_Tool = {
       "Base.SutureNeedleBox",
       "Base.SutureNeedle",
