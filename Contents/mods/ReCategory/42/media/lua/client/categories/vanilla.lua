@@ -404,6 +404,7 @@ DefinitionVanilla = {
       "Base.Card_StPatrick",
       "Base.Card_Sympathy",
       "Base.Card_Valentine",
+      "Base.IDcard_Blank",
     },
     Recat_Literature_Entertainment = {
       "Base.Phonebook",
@@ -841,12 +842,12 @@ DefinitionVanilla = {
       "Base.IDcard_Stolen",
       "Base.IDcard_Female",
       "Base.IDcard_Male",
-      "Base.IDcard_Blank",
       "Base.CreditCard",
       "Base.CreditCard_Stolen",
       "Base.BusinessCard",
       "Base.BusinessCard_Personal",
       "Base.BusinessCard_Nolans",
+      "Base.ParkingTicket",
     },
     Recat_Food_Imperishable = {
       "Base.DriedApricots",
@@ -1204,6 +1205,10 @@ DefinitionVanilla = {
       "Base.TurkeyWhole",
       "Base.Tortilla",
       "Base.TortillaChipsBaked",
+      "Base.EggOmelette",
+      "Base.Taco",
+      "Base.Smore",
+      "Base.RefriedBeans"
       -- TBD
     },
     Recat_Food_Material = {
@@ -1537,8 +1542,12 @@ DefinitionVanilla = {
       "Base.Postcard",
       "Base.Locket",
       "Base.Doodle",
+      "Base.DoodleKids",
     },
-    Recat__Memento_Junk = {
+    Recat_Memento_Award = {
+      "Base.ScratchTicket",
+      "Base.ScratchTicket_Loser",
+      "Base.ScratchTicket_Winner",
     },
     Recat_Memento_Currency = {
       "Base.Money",

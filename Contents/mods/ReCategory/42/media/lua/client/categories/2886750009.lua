@@ -15,7 +15,7 @@ table.insert(
         "Base.BeerImported",
         "Base.BeerPack",
       },
-      Recat__Literature_Junk = {
+      Recat_Literature_Writing = {
         "Base.SpeedingTicket_Blank",
         "Base.ParkingTicket_Blank",
         "Base.CreditCard_Blank",

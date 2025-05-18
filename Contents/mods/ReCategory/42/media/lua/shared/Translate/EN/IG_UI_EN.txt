@@ -42,5 +42,5 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Mechanic_Tool = "Mechanic - Tool"
 	IGUI_ItemCat_Recat_Memento_Memory = "Memento - Memory"
 	IGUI_ItemCat_Recat_Memento_Currency = "Memento - Currency"
-	IGUI_ItemCat_Recat__Memento_Junk = "Memento - Junk"
+	IGUI_ItemCat_Recat_Memento_Award = "Memento - Award"
 }
