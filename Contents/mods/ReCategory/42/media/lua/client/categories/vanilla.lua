@@ -210,6 +210,11 @@ DefinitionVanilla = {
       "Base.Timer",
       "Base.Coldpack",
       "Base.ColdpackBox",
+      "Base.Screws",
+      "Base.ScrewsBox",
+      "Base.ScrewsCarton",
+      "Base.Aluminum",
+      "Base.AluminumFragments",
     },
     Recat_Electrical_Media = {
       "Base.Disc_Retail",
