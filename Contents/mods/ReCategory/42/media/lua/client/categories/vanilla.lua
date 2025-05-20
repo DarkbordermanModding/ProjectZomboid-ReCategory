@@ -1601,7 +1601,7 @@ DefinitionVanilla = {
       "Base.AssaultRifle2",
       "Base.Pistol",
       "Base.Pistol2",
-      "Base.Postol3",
+      "Base.Pistol3",
       "Base.Revolver",
       "Base.Revolver_Short",
       "Base.VarmintRifle",
