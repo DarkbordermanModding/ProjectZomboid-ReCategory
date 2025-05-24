@@ -4,6 +4,9 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
+    Recat_Farming_Seed = {
+      "Base.SunflowerSeeds",
+    },
     Recat_Tool_Sharpblade = {
       "Base.Machete",
       "Base.Machete_Crude",
@@ -1308,7 +1311,6 @@ DefinitionVanilla = {
       "Base.Dip_NachoCheese",
       "Base.Dip_Ranch",
       "Base.Dip_Salsa",
-      "Base.SunflowerSeeds",
       "Base.Gravy",
       "Base.Guacamole",
       "Base.Honey",
