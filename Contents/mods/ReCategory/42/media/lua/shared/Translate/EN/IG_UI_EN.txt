@@ -1,5 +1,7 @@
 IGUI_EN = {
+	IGUI_ItemCat_Recat_Animal_Tool = "Animal - Tool"
 	IGUI_ItemCat_Recat_Farming_Seed = "Farming - Seed"
+	IGUI_ItemCat_Recat_Farming_Material = "Farming - Material"
 	IGUI_ItemCat_Recat_Farming_Tool = "Farming - Tool"
 	IGUI_ItemCat_Recat_Blacksmithing_Tool = "Blacksmithing - Tool"
 	IGUI_ItemCat_Recat_Cooking_Tool = "Cooking - Tool"

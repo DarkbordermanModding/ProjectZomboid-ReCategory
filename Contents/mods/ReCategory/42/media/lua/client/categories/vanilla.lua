@@ -4,6 +4,11 @@ require("recategory")
 DefinitionVanilla = {
   modId = "vanilla",
   categories = {
+    Recat_Animal_Tool = {
+      "Base.Leash",
+      "Base.LeafRake",
+      "Base.Rake",
+    },
     Recat_Farming_Seed = {
       "Base.SunflowerSeeds",
       "Base.SoybeansSeed",
@@ -59,15 +64,34 @@ DefinitionVanilla = {
       "Base.WildGarlicSeed",
       "Base.ZucchiniSeed",
     },
-    Recat_Farming_Tool = {
+    Recat_Farming_Material = {
+      "Base.GardeningSprayAphids",
       "Base.GardeningSprayEmpty",
       "Base.GardeningSprayMilk",
       "Base.GardeningSprayCigarettes",
+      "Base.SlugRepellent",
+      "Base.CompostBag",
+      "Base.Fertilizer",
+      "Base.SunflowerHead",
+      "Base.SunflowerHeadDried",
+    },
+    Recat_Farming_Tool = {
       "Base.HandShovel",
       "Base.Scythe",
       "Base.ScytheForged",
-      "Base.SlugRepellent",
       "Base.WateredCan",
+      "Base.EntrenchingTool",
+      "Base.GardenFork_Forged",
+      "Base.GardenFork",
+      "Base.GardenHoeForged",
+      "Base.GardenHoe",
+      "Base.HandScythe",
+      "Base.HandScytheForged",
+      "Base.Shovel",
+      "Base.Shovel2",
+      "Base.SpadeForged",
+      "Base.PrimitiveScythe",
+      "Base.SpadeWood",
     },
     Recat_Tool_Sharpblade = {
       "Base.Machete",
@@ -1070,6 +1094,8 @@ DefinitionVanilla = {
       "Base.DentedCan_Box",
       "Base.Macandcheese_Box",
       "Base.MysteryCan_Box",
+      "Base.Frog", -- Should be perishable
+      "Base.Ladybug" -- -- Should be fishing lure
     },
     Recat_Food_Perishable = {
       "Base.Acorn",
@@ -1730,6 +1756,9 @@ DefinitionVanilla = {
       "Base.ShotgunSawnoff",
     },
     -- Original Categories
+    Weapon = {
+      "Base.Stake",
+    },
     Accessory = {
       "Base.Gloves_Surgical",
       "Base.Hat_SurgicalCap",
