@@ -59,6 +59,16 @@ DefinitionVanilla = {
       "Base.WildGarlicSeed",
       "Base.ZucchiniSeed",
     },
+    Recat_Farming_Tool = {
+      "Base.GardeningSprayEmpty",
+      "Base.GardeningSprayMilk",
+      "Base.GardeningSprayCigarettes",
+      "Base.HandShovel",
+      "Base.Scythe",
+      "Base.ScytheForged",
+      "Base.SlugRepellent",
+      "Base.WateredCan",
+    },
     Recat_Tool_Sharpblade = {
       "Base.Machete",
       "Base.Machete_Crude",
