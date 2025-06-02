@@ -18,12 +18,6 @@ table.insert(
         "Base.BeerImported",
         "Base.BeerPack",
       },
-      Recat_Literature_Writing = {
-        "Base.SpeedingTicket_Blank",
-        "Base.ParkingTicket_Blank",
-        "Base.CreditCard_Blank",
-        "Base.BusinessCard_Blank",
-      }
     }
   }
 )
