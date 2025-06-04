@@ -18,6 +18,9 @@ table.insert(
         "Base.BeerImported",
         "Base.BeerPack",
       },
+      Recat_Fishing_Lure = {
+        "Base.Ladybug",
+      },
     }
   }
 )
