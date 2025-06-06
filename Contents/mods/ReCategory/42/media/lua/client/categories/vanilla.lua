@@ -1554,6 +1554,12 @@ DefinitionVanilla = {
       "Base.Thimble",
       "Base.MeasuringTape",
     },
+    Recat_Resource_Gold = {
+      "Base.GoldScrap",
+      "Base.GoldBar",
+      "Base.GoldSheet",
+      "Base.SmallGoldBar",
+    },
     Recat_Resource_Silver = {
       "Base.SilverScrap",
       "Base.SilverBar",
