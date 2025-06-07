@@ -1535,6 +1535,8 @@ DefinitionVanilla = {
       "Base.Garbagebag",
       "Base.Bag_TrashBag",
       "Base.Garbagebag_box",
+      "Base.ChickenFeather",
+      "Base.TurkeyFeather",
     },
     Recat_Tailoring_Tool = {
       "Base.Awl",
@@ -1553,6 +1555,14 @@ DefinitionVanilla = {
     Recat__Tailoring_Junk = {
       "Base.Thimble",
       "Base.MeasuringTape",
+    },
+    Recat_Resource_Copper = {
+      "Base.CopperIngot",
+      "Base.CopperScrap",
+      "Base.CopperSheet",
+      "Base.SmallCopperSheet",
+      "Base.CopperOre",
+      "Base.CopperOre_Crushed",
     },
     Recat_Resource_Gold = {
       "Base.GoldScrap",
@@ -1826,6 +1836,7 @@ DefinitionVanilla = {
       "Base.HollowBook_Prison",
       "Base.HollowBook_Whiskey",
       "Base.HollowFancyBook",
+      "Base.CookieJar_Bear",
     }
   }
 }
