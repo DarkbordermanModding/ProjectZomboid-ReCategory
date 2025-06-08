@@ -44,6 +44,7 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Resource_Steel = "Resource - Steel"
 	IGUI_ItemCat_Recat_Tool_Sharpblade = "Tool - Sharpblade"
 	IGUI_ItemCat_Recat_Tool_Dullblade = "Tool - Dullblade"
+	IGUI_ItemCat_Recat_Tool_Axe = "Tool - Axe"
 	IGUI_ItemCat_Recat_Tool_Hammer = "Tool - Hammer"
 	IGUI_ItemCat_Recat_Tool_Drill = "Tool - Drill"
 	IGUI_ItemCat_Recat_Tool_Misc = "Tool - Misc"
@@ -59,4 +60,5 @@ IGUI_EN = {
 	IGUI_ItemCat_Recat_Weapon_Ammo = "Weapon - Ammo"
 	IGUI_ItemCat_Recat_Weapon_Magazine = "Weapon - Magazine"
 	IGUI_ItemCat_Recat_Weapon_Ranged = "Weapon - Ranged"
+	IGUI_ItemCat_Recat_Weapon_Melee = "Weapon - Melee"
 }

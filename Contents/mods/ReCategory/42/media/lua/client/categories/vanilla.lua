@@ -159,6 +159,20 @@ DefinitionVanilla = {
       "Base.ClubHammer",
       "Base.ClubHammerForged",
     },
+    Recat_Tool_Axe = {
+      "Base.Axe_Old",
+      "Base.AxeStone",
+      "Base.Axe",
+      "Base.HandAxe_Old",
+      "Base.StoneAxeLarge",
+      "Base.WoodAxeForged",
+      "Base.WoodAxe",
+      "Base.Axe_ScrapCleaver",
+      "Base.HandAxe",
+      "Base.HandAxeForged",
+      "Base.Axe_Sawblade",
+      "Base.Axe_Sawblade_Hatchet",
+    },
     Recat_Blacksmithing_Tool = {
       "Base.KitchenTongs",
     },
@@ -1850,6 +1864,9 @@ DefinitionVanilla = {
       "Base.DoubleBarrelShotgunSawnoff",
       "Base.Shotgun",
       "Base.ShotgunSawnoff",
+    },
+    Recat_Weapon_Melee = {
+      "Base.Nightstick",
     },
     -- Original Categories
     Weapon = {
