@@ -204,7 +204,6 @@ DefinitionVanilla = {
       "Base.PanForged",
     },
     Recat__Cooking_Junk = {
-      "Base.CheeseGrater",
       "Base.OvenMitt",
       "Base.Chopsticks",
       "Base.CocktailUmbrella",
@@ -1594,6 +1593,9 @@ DefinitionVanilla = {
       "Base.SmallCopperSheet",
       "Base.CopperOre",
       "Base.CopperOre_Crushed",
+    },
+    Recat_Resource_Iron = {
+      "Base.CheeseGrater",
     },
     Recat_Resource_Gold = {
       "Base.GoldScrap",
