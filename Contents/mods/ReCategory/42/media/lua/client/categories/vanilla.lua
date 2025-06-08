@@ -94,6 +94,7 @@ DefinitionVanilla = {
       "Base.PrimitiveScythe",
       "Base.SpadeWood",
       "Base.HandFork",
+      "Base.CheeseCloth",
     },
     Recat_Tool_Sharpblade = {
       "Base.Machete",
@@ -146,6 +147,17 @@ DefinitionVanilla = {
     Recat_Tool_Misc = {
       "Base.Scalpel",
       "Base.StraightRazor",
+      "Base.PipeWrench",
+    },
+    Recat_Tool_Hammer = {
+      "Base.BallPeenHammer",
+      "Base.BallPeenHammerForged",
+      "Base.Hammer",
+      "Base.HammerForged",
+      "Base.HammerStone",
+      "Base.SmithingHammer",
+      "Base.ClubHammer",
+      "Base.ClubHammerForged",
     },
     Recat_Blacksmithing_Tool = {
       "Base.KitchenTongs",
