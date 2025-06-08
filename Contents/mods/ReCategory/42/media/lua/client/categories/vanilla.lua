@@ -8,6 +8,7 @@ DefinitionVanilla = {
       "Base.Leash",
       "Base.LeafRake",
       "Base.Rake",
+      "Base.SnowShovel",
     },
     Recat_Farming_Seed = {
       "Base.SunflowerSeeds",
@@ -92,6 +93,7 @@ DefinitionVanilla = {
       "Base.SpadeForged",
       "Base.PrimitiveScythe",
       "Base.SpadeWood",
+      "Base.HandFork",
     },
     Recat_Tool_Sharpblade = {
       "Base.Machete",
@@ -1347,7 +1349,8 @@ DefinitionVanilla = {
       "Base.EggOmelette",
       "Base.Taco",
       "Base.Smore",
-      "Base.RefriedBeans"
+      "Base.RefriedBeans",
+      "Base.FishRoeSac",
       -- TBD
     },
     Recat_Food_Material = {
@@ -1499,6 +1502,7 @@ DefinitionVanilla = {
       "Base.JigLure",
       "Base.MinnowLure",
       "Base.Bobber",
+      "Base.FishGuts",
     },
     Recat_Fishing_Material = {
       "Base.FishingHook_Bone",
@@ -1511,6 +1515,9 @@ DefinitionVanilla = {
     Recat_Fishing_Tool = {
       "Base.FishingNet",
       "Base.BrokenFishingNet",
+      "Base.FishingRod",
+      "Base.FishingRodBreak",
+      "Base.CraftedFishingRod",
     },
     Recat_Music_Tool = {
       "Base.Whistle_Bone",
@@ -1574,6 +1581,7 @@ DefinitionVanilla = {
       "Base.ScissorsBluntMedical",
       "Base.ScissorsBlunt",
       "Base.Scissors",
+      "Base.ScissorsForged",
     },
     Recat__Tailoring_Junk = {
       "Base.Thimble",
@@ -1849,6 +1857,7 @@ DefinitionVanilla = {
       "Base.Bitters",
       "Base.Animal",
       "Base.TestMug",
+      "Base.FISH_DEV_ITEM",
     },
     Furniture = {
       "Base.TvAntique",
