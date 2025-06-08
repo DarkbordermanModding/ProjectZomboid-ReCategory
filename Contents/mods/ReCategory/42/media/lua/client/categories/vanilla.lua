@@ -136,6 +136,11 @@ DefinitionVanilla = {
       "Base.ButterKnife_Gold",
       "Base.ButterKnife_Silver",
     },
+    Recat_Tool_Drill = {
+      "Base.OldDrill",
+      "Base.HandDrill",
+      "Base.StoneDrill",
+    },
     Recat_Tool_Misc = {
       "Base.Scalpel",
       "Base.StraightRazor",
@@ -329,6 +334,7 @@ DefinitionVanilla = {
       "Base.ScrewsCarton",
       "Base.Aluminum",
       "Base.AluminumFragments",
+      "Base.SteelWool",
     },
     Recat_Electrical_Media = {
       "Base.Disc_Retail",
@@ -1590,6 +1596,9 @@ DefinitionVanilla = {
       "Base.SteelScrap",
       "Base.SheetMetal",
       "Base.SmallSheetMetal",
+      "Base.CeramicCrucible_Steel",
+      "Base.CeramicCrucibleSmall_Steel",
+      "Base.SteelBarQuarter",
     },
     Recat_Mechanic_Material = {
       "Base.OldBrake1",
