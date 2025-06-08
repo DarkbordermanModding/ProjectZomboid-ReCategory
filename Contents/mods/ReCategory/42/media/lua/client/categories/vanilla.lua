@@ -1495,6 +1495,22 @@ DefinitionVanilla = {
       "Base.Termites",
       "Base.Worm",
       "Base.BaitFish",
+      "Base.Chum",
+      "Base.JigLure",
+      "Base.MinnowLure",
+      "Base.Bobber",
+    },
+    Recat_Fishing_Material = {
+      "Base.FishingHook_Bone",
+      "Base.FishingHookBox",
+      "Base.FishingHook",
+      "Base.FishingHook_Forged",
+      "Base.FishingLine",
+      "Base.PremiumFishingLine",
+    },
+    Recat_Fishing_Tool = {
+      "Base.FishingNet",
+      "Base.BrokenFishingNet",
     },
     Recat_Music_Tool = {
       "Base.Whistle_Bone",
@@ -1543,6 +1559,7 @@ DefinitionVanilla = {
       "Base.Garbagebag_box",
       "Base.ChickenFeather",
       "Base.TurkeyFeather",
+      "Base.TirePiece",
     },
     Recat_Tailoring_Tool = {
       "Base.Awl",
@@ -1815,6 +1832,7 @@ DefinitionVanilla = {
     -- Original Categories
     Weapon = {
       "Base.Stake",
+      "Base.Gaffhook",
     },
     Accessory = {
       "Base.Gloves_Surgical",
