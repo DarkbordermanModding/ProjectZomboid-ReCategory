@@ -10,6 +10,11 @@ DefinitionVanilla = {
       "Base.Rake",
       "Base.SnowShovel",
     },
+    Recat_Assembly_Handle = {
+      "Base.SmallHandle",
+      "Base.LongHandle",
+      "Base.Handle",
+    },
     Recat_Farming_Seed = {
       "Base.SunflowerSeeds",
       "Base.SoybeansSeed",
@@ -1793,10 +1798,16 @@ DefinitionVanilla = {
       "Base.MoleyMole",
       "Base.SpiffoBig",
       "Base.Spiffo",
-      "Base.FurbertSquirrel"
+      "Base.FurbertSquirrel",
+      "Base.PancakeHedgehog",
     },
     Recat_Memento_Toy = {
+      "Base.Rubberducky",
       "Base.PotScrubberFrog",
+      "Base.ToyBear",
+      "Base.ToyBear_Crafted_Burlap",
+      "Base.ToyBear_Crafted_Cotton",
+      "Base.RubberSpider",
     },
     Recat_Memento_KeyRing = {
       "Base.KeyRing_Bug",
@@ -1811,6 +1822,14 @@ DefinitionVanilla = {
       "Base.KeyRing_Panther",
       "Base.KeyRing_RabbitFoot",
       "Base.KeyRing_RubberDuck",
+      "Base.KeyRing_SecurityPass",
+      "Base.KeyRing_WestMaple",
+      "Base.KeyRing_StinkyFace",
+      "Base.KeyRing_Spiffos",
+      "Base.KeyRing_Sexy",
+      "Base.KeyRing_RainbowStar",
+      "Base.KeyRing_PrayingHands",
+      "Base.KeyRing_PineTree",
     },
     Recat_Memento_Memory = {
       "Base.Photo_VeryOld",
