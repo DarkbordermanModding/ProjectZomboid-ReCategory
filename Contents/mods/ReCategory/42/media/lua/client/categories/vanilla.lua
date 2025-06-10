@@ -38,6 +38,8 @@ DefinitionVanilla = {
       "Base.StoneMaceHead",
       "Base.StoneMaulHead",
       "Base.WoodAxeHead",
+      "Base.HandScytheBlade",
+      "Base.ScytheBlade",
     },
     Recat_Farming_Seed = {
       "Base.SunflowerSeeds",
@@ -405,6 +407,7 @@ DefinitionVanilla = {
       "Base.Screwdriver",
     },
     Recat_Electrical_Scrapable = {
+      "Base.AluminumScrap",
       "Base.CordlessPhone",
       "Base.CDplayer",
       "Base.Calculator",
